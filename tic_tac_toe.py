@@ -1,4 +1,4 @@
-from re import M
+# Utilises tutorial at https://stackabuse.com/minimax-and-alpha-beta-pruning-in-python/
 import time
 
 class Game:
